@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there 👋😀
 
-<!--
-**Melkam-code/Melkam-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github account, this is where I put all my learning and fun projects. 
 
-Here are some ideas to get you started:
+- 🔭 I'm practicing and learning as much as possible
+- 🌱 I’m currently focused on MERN Stack and JavaScript
+- 👯 Let's collaborate on projects
+- 🤔 I’m so interested to learn from you
+- 💬 Ask me about any of my projects
+- 📫 How to reach me:
+     🔥 Website: https://halepo.com/melkam/
+     👩‍💻 LinkedIn: https://www.linkedin.com/in/melkamm/
+     ✨ Instagram: https://www.instagram.com/melkammekonnen/
+- 👩 Currently working fulltime for ICAP at Columbia University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--> "Take a chance! All life is a chance. The man who goes furthest is generally the one who is willing to do and dare."
